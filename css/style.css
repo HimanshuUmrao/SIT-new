@@ -2115,3 +2115,15 @@ form textarea.form-control{
 .pbmit-bg-color-global form .form-control::placeholder{
 	color: rgba(var(--pbmit-white-color-rgb),.6);
 }
+
+.pbmit-contact-widget-line {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.pbmit-contact-widget-line i {
+	display: flex;
+	align-items: center;
+	font-size: 24px; 
+	margin-right: 10px;
+}
