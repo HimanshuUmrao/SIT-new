@@ -91,7 +91,7 @@ body {
         padding: 180px 30px 80px 50px;
     }
 	.about-three-right-box{
-		padding: 50px 0 60px 0px;
+		padding: 2px 0 0 0px;
 	}
 	.banner-section-left .pbmit-content .pbmit-button{
 		padding-left: 0;
@@ -220,7 +220,8 @@ body {
 		left: 10px;
 	}
 	.about-three-left-box .about-second-img{
-		right: 73px;
+		right: 65px;
+		top: 28rem;
 	}
 	.pbmit-ihbox-style-1 .pbmit-ihbox-box{
 		padding: 40px 28px 80px;
@@ -2118,6 +2119,9 @@ body {
 	.pbmit-col-20{
 		width: 20%;
 	}
+	.pbmit-col-80{
+		width: 80%;
+	}
 }
 
 @media screen and (min-width: 992px){
@@ -2216,6 +2220,7 @@ body {
 }
 
 @media (max-width: 1024px) and (min-width: 768px){
+	 
 	.ihbox-style-10-area .pbmit-col-20{
 		width: 33%;
 	}
@@ -2227,6 +2232,10 @@ body {
 	.pbmit-element-posts-wrapper .pbmit-client-style-1:nth-child(5),
 	.pbmit-element-posts-wrapper .pbmit-client-style-1:last-child{
 		margin-bottom: 0;
+	}
+
+	.pbmit-col-80{
+		width: 80%;
 	}
 }
 

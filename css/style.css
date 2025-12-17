@@ -2134,3 +2134,17 @@ form textarea.form-control{
     color: var(--pbmit-white-color);
     font-style: inherit;
 }
+
+.award-content-sec {
+    background-color: var(--pbmit-white-color);
+    border-radius: 30px;
+}
+
+.award-content-sec .content {
+    padding: 2rem;
+}
+
+.award-content-sec .content p {
+    align-items: center;
+    justify-content: center;
+}
