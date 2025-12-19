@@ -1474,7 +1474,7 @@
 }
 .pbmit-service-style-1 .pbmit-serv-cat,
 .pbmit-service-style-1 .pbminfotech-box-number{
-	display: none;
+	/* display: none; */
 }
 .pbmit-element-posts-wrapper.row .pbmit-service-style-1{
 	margin-bottom: 30px;

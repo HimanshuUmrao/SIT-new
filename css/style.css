@@ -2154,3 +2154,25 @@ form textarea.form-control{
     align-items: center;
     display: flex !important;
 }
+
+.service div {
+    border-right: 1px solid #d3d3d3;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.list-style {
+    margin-top: 1rem;
+}
+
+.list-style li {
+    padding-bottom: 1rem;
+}
+
+.pad-top-2 {
+        padding-top: 2rem;
+}
+
+.bordr-bottom {
+    border-bottom: 1px solid #d3d3d3;
+}
