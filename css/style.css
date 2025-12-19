@@ -2148,3 +2148,9 @@ form textarea.form-control{
     align-items: center;
     justify-content: center;
 }
+
+.con-cen {
+    justify-content: center;
+    align-items: center;
+    display: flex !important;
+}
