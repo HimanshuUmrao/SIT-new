@@ -2176,3 +2176,7 @@ form textarea.form-control{
 .bordr-bottom {
     border-bottom: 1px solid #d3d3d3;
 }
+
+.pbmit-title-bar-wrapper-air {
+        background-image: url(../images/bg/titlebar-air.jpeg);
+}
