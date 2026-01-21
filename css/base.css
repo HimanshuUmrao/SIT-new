@@ -203,7 +203,7 @@ INDEX:
 /* 01 - Typography 
 /*----------------------------------------*/
  body {
-     font-family:var(--pbmit-body-typography-font-family);
+     font-family: "Poppins", sans-serif;
      font-weight: var(--pbmit-body-typography-variant);
      color: var(--pbmit-body-typography-color);
      font-size: var(--pbmit-body-typography-font-size);
@@ -213,7 +213,7 @@ INDEX:
      font-style: normal;
 }
  h1, h2, h3, h4, h5, h6 {
-     font-family:var(--pbmit-heading-typography-font-family);
+     font-family: "Poppins", sans-serif;
      font-weight: var(--pbmit-heading-font-variant);
      color: var(--pbmit-heading-color);
 }
@@ -269,7 +269,7 @@ INDEX:
      text-decoration: none !important;
 }
  a.link-btn, .link-btn a{
-     font-family: "Montserrat", Arial, Helvetica, sans-serif;
+     font-family: "Poppins", sans-serif;
      font-weight: 700;
      text-transform: uppercase;
      font-size: 14px;
@@ -283,7 +283,7 @@ INDEX:
 	display: inline-block;
 	text-decoration: none;
 	box-shadow: none;
-	font-family: var(--pbmit-btn-typography-font-family);
+	font-family: "Poppins", sans-serif;
 	font-size: var(--pbmit-btn-typography-font-size);
 	font-weight: var(--pbmit-btn-typography-variant);
 	line-height: var(--pbmit-btn-typography-line-height);
