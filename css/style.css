@@ -2195,3 +2195,11 @@ form textarea.form-control{
 .pbmit-title-bar-wrapper-custom {
     background-image: url(../images/bg/titlebar-custom.jpg);
 }
+
+.pbmit-title-bar-wrapper-packaging {
+    background-image: url(../images/bg/titlebar-packaging.jpg);
+}
+
+.pbmit-title-bar-wrapper-warehousing {
+    background-image: url(../images/bg/titlebar-warehousing.jpg);
+}
