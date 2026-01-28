@@ -584,3 +584,19 @@
 	}
 })($);
 
+$(window).scroll(function(){
+		var sticky = $('#sticky'),
+			scroll = $(window).scrollTop();
+
+		if (scroll >= 100) sticky.addClass('fixed');
+		else sticky.removeClass('fixed');
+		});
+
+$(window).scroll(function(){
+		var sticky = $('#sticky-header'),
+			scroll = $(window).scrollTop();
+
+		if (scroll >= 100) sticky.addClass('fixed-header');
+		else sticky.removeClass('fixed-header');
+		});
+

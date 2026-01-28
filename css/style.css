@@ -2203,3 +2203,25 @@ form textarea.form-control{
 .pbmit-title-bar-wrapper-warehousing {
     background-image: url(../images/bg/titlebar-warehousing.jpg);
 }
+
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: #f8f9fad6;
+    padding: 0 1rem;
+    border-radius: 71px;
+ }
+
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: #00112ed6;
+    padding: 1rem;
+    border-radius: 71px;
+ }
