@@ -547,7 +547,7 @@ body {
 	width: auto;
 	max-width: 100%;
 	right: 40px;
-	bottom: 0;
+	top: 25rem;
 }
 .about-three-left-box .about-second-img img{
 	border-radius: 20px;
@@ -2213,6 +2213,9 @@ form textarea.form-control{
     background: #f8f9fad6;
     padding: 0 1rem;
     border-radius: 71px;
+    box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
  }
 
 .fixed-header {
@@ -2224,4 +2227,14 @@ form textarea.form-control{
     background: #00112ed6;
     padding: 1rem;
     border-radius: 71px;
+    box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 16px 19px -7px rgba(0,0,0,0.75);
+ }
+
+ .align-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3rem 0;
  }
